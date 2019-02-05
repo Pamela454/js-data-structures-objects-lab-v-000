@@ -20,7 +20,7 @@ function deleteFromDriverByKey(driver, key, value) {
   
   delete newDriver.key;
   
-  newObj;
+  newDriver;
   
   obj;
 }
