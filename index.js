@@ -18,6 +18,10 @@ function deleteFromDriverByKey(driver, key) {
   
   newObj; 
   
+  delete newObj.key;
   
+  newObj;
+  
+  obj;
 }
 
